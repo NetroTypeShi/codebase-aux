@@ -13,7 +13,6 @@ function crearPalabra(n_silabas){
 
 function setup() {
     createCanvas(400, 400);
-    frameRate(1)
     background(220);
 }
 
